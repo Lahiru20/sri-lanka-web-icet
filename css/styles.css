@@ -115,6 +115,10 @@ p{
     top: 8%;
 }
 
+#title-gow-sub{
+  margin-top: 20px;
+}
+
 .image-gallary{
     display: flex;
     justify-content: center;
